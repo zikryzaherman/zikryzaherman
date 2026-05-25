@@ -4,7 +4,7 @@ I'm a student at Universiti Putra Malaysia exploring the world of software devel
 
 - 😄 **Pronouns:** He/Him/His ...
 - 🚀 **Currently learning:** PostgreSQL, Supabase, and backend tools.
-- 🎓 **Studying:**Software Engineering @ Universiti Putra Malaysia
+- 🎓 **Studying:** Software Engineering @ Universiti Putra Malaysia
 - 💼 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/zikryzaherman)
 
 ---
