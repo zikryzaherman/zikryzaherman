@@ -7,7 +7,7 @@ I'm a Software Engineering student at **Universiti Putra Malaysia**, bridging th
 ### 🚀 About Me
 * 👨‍💻 **Focus:** Software Project Management & Web Application Development.
 * 🧠 **Mindset:** Highly adaptable developer who enjoys fast-paced problem solving and rapid prototyping.
-* 🎓 **Studying:** Software Engineering @ Universiti Putra Malaysia (UPM).
+* 🎓 **Studying:** Software Engineering @ UPM.
 * 💬 **Pronouns:** He/Him/His
 
 ---
